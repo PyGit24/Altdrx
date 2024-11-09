@@ -1,9 +1,11 @@
-Readme instructions on how to install, set up, and run the automated test scripts for the flows on Altdrx.com.
+README: Manual Test Cases and test reports (TestCases.xlsx) for Altdrx.com
+
+Readme Automation Testing instructions on how to install, set up, and run the automated test scripts using Python Selenium for the flows on Altdrx.com.
 
 README: Automated Testing Scripts for Altdrx.com
 
- Introduction
-This document provides stepbystep instructions for installing, setting up, and running automated test scripts using Python and Selenium for the Altdrx.com website. The flows covered include SignUp, Login, KYC Verification, Add Funds, and Tradex Buy.
+Introduction
+This document provides step by step instructions for installing, setting up, and running automated test scripts using Python and Selenium for the Altdrx.com website. The flows covered include SignUp, Login, KYC Verification, Add Funds, and Tradex Buy.
 
  Prerequisites
  Python 3.x
@@ -76,4 +78,4 @@ This document provides stepbystep instructions for installing, setting up, and r
    
 
 Conclusion
-By following the above instructions, you should be able to successfully install, set up, and run the automated test scripts for Altdrx.com. Feel free to reach out if you encounter any issues or need further assistance.
+By following the above instructions, you would be able to successfully install, set up, and run the automated test scripts for Altdrx.com.
